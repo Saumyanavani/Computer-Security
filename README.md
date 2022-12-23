@@ -1,7 +1,7 @@
 # Computer-Security
 Assignments and Projects for ECE 404: Computer Security
 
-#Assignment Descriptions
+# Assignment Descriptions
 1. HW 01: Bruteforce attack on encrypted message
 2. HW 02: DES Implementation on text and PPM files.
 3. HW 04; AES Implementation
